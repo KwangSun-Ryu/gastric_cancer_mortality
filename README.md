@@ -3,7 +3,8 @@
  
 ### Description
 
-This study aim to develop a predictive model for mortality in young patients with gastric cancer. Using machine learning techniques, we preprocess the data, extract important features, and build a model to predict outcomes.
+This study aim to develop a predictive model for mortality in young patients with gastric cancer. 
+Using machine learning techniques, we preprocess the data, extract important features, and build a model to predict outcomes.
 
 ### Framework
 The figure below illustrates the framework of our study:
